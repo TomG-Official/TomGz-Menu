@@ -4,7 +4,7 @@
 *	 Creator : TomG
 *	 Project : TomGz Menu V1.1
 *    Mode : Multiplayer
-*	 Date : 2014.10.02 - 15:35:46	
+*	 Date : 2016.12.18 - 15:35:46	
  *
 */	
 
@@ -79,7 +79,7 @@ StartPrintln()
 {
 self iprintln("^4Welcome^7 "+self.name+"^4:D");
 self iprintln("^4Press ^7 [{+smoke}] ^4 To Open");
-self iprintln("^4Enjoy from TomG :)");
+self iprintln("^4Enjoy from _TomG_ :)");
 self iprintln("^4 ENJOY!!!");
 }
 
@@ -933,3 +933,5 @@ doExplosiveBullets()
 		wait .05;
 	}
 }
+
+
